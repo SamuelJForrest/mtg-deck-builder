@@ -1,1 +1,1 @@
-# mtg-deck-builder
+# Magic the Gathering: Deck Builder
